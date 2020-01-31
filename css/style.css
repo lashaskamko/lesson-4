@@ -1,0 +1,15 @@
+.test1{
+	float: left;
+
+}
+.test2{
+	float: right;
+}
+.container{
+	background: red;
+	width: 1170px;
+	margin: 20px auto;
+}
+.clear{
+	clear: both;
+}
