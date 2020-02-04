@@ -1,15 +1,44 @@
-.test1{
-	float: left;
+.li{
+	display: inline-block;
+	color: #FFFFFF;
+	width: 126px;
+	height: 36px;
+}
+
+.div-active{
+	margin-top: 49px;
+	margin-right: 312px;
+	margin-bottom: 178px;
+	margin-left: 270px;
+	display: inline-block;
 
 }
-.test2{
+.div-a{
+	display: inline-block;
+	width: 617px;
+	height:356px;
+	background-color: #FCEE21;
+	vertical-align: middle;
+	color: #000000
+
+}
+.img-active{
+	display: inline-block;
+
+	/*margin-right: 55px;
+	margin-top: 49px;*/
 	float: right;
 }
-.container{
-	background: red;
-	width: 1170px;
-	margin: 20px auto;
+.logo-1{
+	float: left;
+	width: 151px;
+	height: 118px;
 }
-.clear{
-	clear: both;
+.img-a{
+	float: right;
+	width: 151px;
+	height: 118px;
+}
+.p{
+	float: left;
 }
